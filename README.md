@@ -8,4 +8,6 @@ Il programma conta il numero di assegnazioni e di confronti di 3 algoritmi di or
 Relazione che spiega ogni riga del programma AlgoritmiDiOrdinamento.cpp
 
 # cinema.cpp
-Il programma simula un concorso cinematografico in cui 100 giudici valutano 25 film. Ogni giudice sceglie casualmente 10 tra i 25 
+Il programma simula un concorso cinematografico in cui 100 giudici valutano 25 film. Ogni giudice sceglie casualmente 10 tra i 25 e ne esprime un voto (che nel programma e' casuale) da 0.5 a 5 stelle. I film sono identificati tramite codici numerici e univoci.
+
+Il programma usa 3 strutture: Film e Giudice, che ha come un'altra sotto struttura Valutazione
