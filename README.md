@@ -3,4 +3,6 @@ Il programma crea una matrice di n righe, scelte dall'utente, che rapressentano 
 
 # AlgoritmiDiOrdinamento.cpp
 Il programma conta il numero di assegnazioni e di confronti di 3 algoritmi di ordinamento ingenui: insection, selection e bubble sort
+
 # AlgoritmiDiOrdinamento-GianniYe.pdf
+Relazione che spiega ogni riga del programma AlgoritmiDiOrdinamento.cpp
