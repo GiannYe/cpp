@@ -6,3 +6,6 @@ Il programma conta il numero di assegnazioni e di confronti di 3 algoritmi di or
 
 # AlgoritmiDiOrdinamento-GianniYe.pdf
 Relazione che spiega ogni riga del programma AlgoritmiDiOrdinamento.cpp
+
+# cinema.cpp
+Il programma simula un concorso cinematografico in cui 100 giudici valutano 25 film. Ogni giudice sceglie casualmente 10 tra i 25 
